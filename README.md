@@ -1,3 +1,5 @@
+I have tried to make the website look decent while achieving the functionalities.Both me and my backend partner were travelling so we haven't merged our work together but I have tried to make the frontend part look decent. I will get the fetching data from backend done too soon which will enhance the website.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

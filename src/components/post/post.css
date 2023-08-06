@@ -3,6 +3,7 @@
     margin: 0px 25px 40px 25px;
     display: flex;
     flex-direction: column;
+    box-shadow: 5px 10px #888888;
   }
   
   .postImg {

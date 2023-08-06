@@ -1,16 +1,18 @@
 import { Link } from "react-router-dom";
 import "./sidebar.css";
 
+
 export default function Sidebar() {
   return (
     <div className="sidebar">
       <div className="sidebarItem">
         <span className="sidebarTitle">ABOUT ME</span>
         <img
-          src="https://themegoods-cdn-pzbycso8wng.stackpathdns.com/grandblog/demo/wp-content/uploads/2015/11/aboutme.jpg"
-          alt=""
+          src="https://cdn.pixabay.com/photo/2023/01/28/06/57/man-7750139_1280.png"
+          alt="image here"
         />
         <p>
+          I am Hritik. I have tried to create frontend for the Medium like website.
           Laboris sunt aute cupidatat velit magna velit ullamco dolore mollit
           amet ex esse.Sunt eu ut nostrud id quis proident.
         </p>

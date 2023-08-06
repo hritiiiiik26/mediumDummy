@@ -1,6 +1,7 @@
 import "./write.css";
 
 export default function Write() {
+
   return (
     <div className="write">
       <img
@@ -29,7 +30,7 @@ export default function Write() {
             autoFocus={true}
           />
         </div>
-        <button className="writeSubmit" type="submit">
+        <button className="writeSubmit" type="submit" >
           Publish
         </button>
       </form>
